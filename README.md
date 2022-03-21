@@ -26,3 +26,16 @@ pygame 2.1.2
 9. Delete List
 10. Show Time
 11. Remain Time 
+
+###  UI
+
+![play music](https://user-images.githubusercontent.com/45984646/159201787-e497f413-9a0a-492b-b5a4-d50ec5c90e84.JPG)
+
+### Thank you for your valuable time
+
+
+![thank-you-9](https://user-images.githubusercontent.com/45984646/159202465-1f5d904c-514c-4f8c-9536-3be76d12d374.gif)
+
+
+
+
